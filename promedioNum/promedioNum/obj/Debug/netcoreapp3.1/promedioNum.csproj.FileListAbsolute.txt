@@ -1,0 +1,11 @@
+C:\Users\SISTEMAS\source\repos\promedioNum\promedioNum\bin\Debug\netcoreapp3.1\promedioNum.exe
+C:\Users\SISTEMAS\source\repos\promedioNum\promedioNum\bin\Debug\netcoreapp3.1\promedioNum.deps.json
+C:\Users\SISTEMAS\source\repos\promedioNum\promedioNum\bin\Debug\netcoreapp3.1\promedioNum.runtimeconfig.json
+C:\Users\SISTEMAS\source\repos\promedioNum\promedioNum\bin\Debug\netcoreapp3.1\promedioNum.runtimeconfig.dev.json
+C:\Users\SISTEMAS\source\repos\promedioNum\promedioNum\bin\Debug\netcoreapp3.1\promedioNum.dll
+C:\Users\SISTEMAS\source\repos\promedioNum\promedioNum\bin\Debug\netcoreapp3.1\promedioNum.pdb
+C:\Users\SISTEMAS\source\repos\promedioNum\promedioNum\obj\Debug\netcoreapp3.1\promedioNum.csprojAssemblyReference.cache
+C:\Users\SISTEMAS\source\repos\promedioNum\promedioNum\obj\Debug\netcoreapp3.1\promedioNum.AssemblyInfoInputs.cache
+C:\Users\SISTEMAS\source\repos\promedioNum\promedioNum\obj\Debug\netcoreapp3.1\promedioNum.AssemblyInfo.cs
+C:\Users\SISTEMAS\source\repos\promedioNum\promedioNum\obj\Debug\netcoreapp3.1\promedioNum.dll
+C:\Users\SISTEMAS\source\repos\promedioNum\promedioNum\obj\Debug\netcoreapp3.1\promedioNum.pdb
